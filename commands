@@ -1,17 +1,28 @@
 1. На локальном репозитории сделать ветки для:
 - Postman
+git branch Postman
 - Jmeter
+git branch Jmeter
 - CheckLists
+git branch Checklists
 - Bag Reports
+git branch Bag_reports
 - SQL
+git branch SQL
 - Charles
+git branch Charles
 - Mobile testing
+git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий
 git checkout master - прыгаем в ветку, в которую мержим
+git push -u origin Postman Jmeter Checklists Bag_reports SQL Charles Mobile_testing
 
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
-git checkout Bug_reports
+git checkout Bag_reports
+git branch - проверяем, что мы в нужной ветке
+touch bag_report.txt
+vim bag_report.txt
 
 4. Запушить структуру багрепорта на внешний репозиторий
 
