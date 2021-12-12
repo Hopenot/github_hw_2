@@ -48,6 +48,8 @@ git push
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 Кнопка compare&pull request
+Кпопка pull&compare
+Кнопка merge
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 git checkout master
