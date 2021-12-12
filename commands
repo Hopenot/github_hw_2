@@ -45,7 +45,7 @@ git commit -m "added checklist structure"
 git push
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-
+Кнопка compare&pull request
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 git pull
