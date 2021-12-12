@@ -48,4 +48,5 @@ git push
 Кнопка compare&pull request
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
+git checkout master
 git pull
