@@ -1,0 +1,5 @@
+Bug report structure:
+1)Title
+2)Steps to reproduce
+3)Actual result
+4)Expected result
