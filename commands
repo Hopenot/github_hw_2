@@ -25,6 +25,8 @@ touch bag_report.txt
 vim bag_report.txt
 
 4. Запушить структуру багрепорта на внешний репозиторий
+git add .
+git commit - m "bag report structure"
 git push - изменения уходят в ветку Bag_reports
 
 5. Вмержить ветку Bag Reports в Main
